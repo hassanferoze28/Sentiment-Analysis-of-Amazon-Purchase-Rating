@@ -1,4 +1,4 @@
-Abstract
+#Abstract
 
 As more customers rely on online purchases, the importance of user ratings is growing. To identify which is the greatest product to buy, a consumer must read thousands of reviews of similar products prior to making a purchase, which can be time consuming. Customers' Amazon reviews are chaotic and unstructured, exposing underlying patterns that, when correctly mined with the right analysis tools, can revolutionize a company's products and service development.
 
